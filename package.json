@@ -1,0 +1,10 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Lebarco <f1nandocor@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
